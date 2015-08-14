@@ -1,0 +1,23 @@
+{
+  "name": "spriteloop",
+  "version": "0.1.0",
+  "description": "A silly method for showing a list of images as a looping video",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "gif",
+    "alternative",
+    "sprite",
+    "video"
+  ],
+  "author": "Niclas Snellman",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^11.0.1",
+    "del": "^1.2.1",
+    "gulp": "^3.9.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
